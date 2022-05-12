@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./resources/GeezFire.gif" width="35px">BAGASKARA-USERBOT<img src="./resources/GeezFire.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/GeezFire.gif" width="35px">𝙷𝚊𝚒𝚌𝚘-USERBOT<img src="./resources/GeezFire.gif" width="35px"></h1>
 <p align="center">
     <img alt="BAGASKARA VERSION" src="https://img.shields.io/badge/BAGASKARA%20VERSION-4.+-brightgreen"/>
     <img alt="BUILD IN" src="https://img.shields.io/badge/BUILD%20-Last Day-brightgreen"/>
@@ -10,10 +10,10 @@
    </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/63267910585608a6302b0.jpg">
+  <img src="https://telegra.ph/file/db2ffde4ae8bf3ed4ef45.jpg">
 </p>
 
-Bagaskara-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+𝙷𝚊𝚒𝚌𝚘-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -36,7 +36,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 
 ## DEPLOY TO HEROKU 💜
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ybgskr12/Bagaskara-Userbot2">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dodikridwan/haico-bagaskara-userbot">
 <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-DE1EFB?style=flat&logo=heroku" width="250" height="38.60" />
 </a></p>
 
@@ -59,6 +59,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 #### Special Thanks To ❤️
 *   [Bagaskara](https://t.me/ybgskr) : Bagaskara Ganteng
+*   [Dik's](https://t.me/dodikridwan) : Dik.
 *   [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
 *   [RaphielGang](https://github.com/RaphielGang) : Paperplane
 *   [TeamUltroid](https://github.com/TeamUltroid/Ultroid) :  UltroidUserbot
