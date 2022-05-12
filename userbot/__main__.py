@@ -53,7 +53,7 @@ if not BOTLOG_CHATID:
 LOGS.info(
     f"Jika {user.first_name} Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/allfucek")
 LOGS.info(
-    f"🔥 Bagaskara-Userbot 🔥 ⚙️ V{BOT_VER} [TELAH DIAKTIFKAN!]")
+    f"🔥 𝙷𝚊𝚒𝚌𝚘-Userbot 🔥 ⚙️ V{BOT_VER} [TELAH DIAKTIFKAN!]")
     
 async def cilik_userbot_on():
     try:
@@ -61,7 +61,7 @@ async def cilik_userbot_on():
             await bot.send_file(
                 BOTLOG_CHATID,
                 ALIVE_LOGO,
-                caption=f"🔥 **Bagaskara Userbot Berhasil Diaktifkan**!!\n━━━━━━━━━━━━━━━\n➠ **Userbot Version** - 1.1 @Bagaskara_Userbot\n➠ **Ketik** `.ping` **Untuk Mengecheck Bot**\n━━━━━━━━━━━━━━━\n➠ **Powered By:** @loveisfuckedup ",
+                caption=f"🔥 **𝙷𝚊𝚒𝚌𝚘 Userbot Berhasil Diaktifkan**!!\n━━━━━━━━━━━━━━━\n➠ **Userbot Version** - 1.1 @Dik_Userbot\n➠ **Ketik** `.ping` **Untuk Mengecheck Bot**\n━━━━━━━━━━━━━━━\n➠ **Powered By:** @loveisfuckedup ",
             )
     except Exception as e:
         LOGS.info(str(e))
